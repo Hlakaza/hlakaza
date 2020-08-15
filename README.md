@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my Profile 👋
+🌱 I am a self taught Fullstack developer. I specialize in angular2+, nodeJS, strapi and dotnet-core. I am a hard worker with a passion for Technology.
 
 <!--
 **Hlakaza/hlakaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
