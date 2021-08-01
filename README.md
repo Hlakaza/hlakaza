@@ -1,6 +1,6 @@
 ### Ola, I'm Lucky:
 
-- 🎓Self-taught Fullstack developer
+- 🎓 Fullstack developer
 - 🏀 Game development using phaser
 - 💻 Frontend development using Angular, Html, Sass, Javascript and Bootstrap
 - 🔖 Backend developemnt using NodeJS, Strapi, and dotNetCore 
