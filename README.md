@@ -1,8 +1,7 @@
 ### Ola, I'm Lucky:
 
 - 🎓 Fullstack developer
-- 🏀 Game development using phaser
-- 💻 Frontend development using Angular, Html, Sass, Javascript and Bootstrap
+- 💻 Frontend development using Angular, React, Html, Sass, Javascript, Tailwind and Bootstrap
 - 🔖 Backend developemnt using NodeJS, Strapi, and dotNetCore 
 - ☎️ Use the the links below to connect
 
